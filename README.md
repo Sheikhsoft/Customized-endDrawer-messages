@@ -5,8 +5,7 @@ A new Flutter project.
 
 ## App Screen
 
-<img src="screens/01.png" height="480px" > 	 <img height="480px" src="screens/02.png"> [Enafor99](https://youtu.be/FLW1XyUsXZg)  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=FLW1XyUsXZg" target="_blank"><img src="screen/movie.png" 
+<img src="screens/01.png" height="480px" > 	 <img height="480px" src="screens/02.png"><a href="http://www.youtube.com/watch?feature=player_embedded&v=FLW1XyUsXZg" target="_blank"><img src="screens/movie.png" 
 alt="Animation app" width="480" border="10" /></a>
 
 ## Getting Started
