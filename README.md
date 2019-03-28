@@ -5,7 +5,7 @@ A new Flutter project.
 
 ## App Screen
 
-<img src="screens/01.png" height="480px" > 	 <img height="480px" src="assets/02.png">
+<img src="screens/01.png" height="480px" > 	 <img height="480px" src="screens/02.png"> <img height="480px" src="screens/video.mp4">
 
 ## Getting Started
 
